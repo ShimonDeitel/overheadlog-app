@@ -1,0 +1,42 @@
+{
+  "identifier": "Overheadlog",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "overheadlog_group",
+      "localizations": [],
+      "name": "Overheadlog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "overheadlog_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Monthly break-even calculator against job income",
+              "displayName": "Overheadlog Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.overheadlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Overheadlog Pro Monthly",
+          "subscriptionGroupID": "overheadlog_group",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
